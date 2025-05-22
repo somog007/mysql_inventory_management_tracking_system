@@ -76,3 +76,6 @@ Key features include:
     ```sql
     DESCRIBE Products;
     ```
+
+## Entity Relationship Diagram (ERD)
+![inventory_managementERD](https://github.com/user-attachments/assets/defc3259-50d1-4efa-afd0-d7c4f7efafc1)
